@@ -1,6 +1,6 @@
 /*SORU: EN BUYUK SAYI
 
-Kullanicidan uc tane tam sayý aliniz. Alinan tam sayilar arasindaki en buyuk sayiyi bulunuz.
+Kullanicidan uc tane tam sayi aliniz. Alinan tam sayilar arasindaki en buyuk sayiyi bulunuz.
 
 */
 
